@@ -6,4 +6,4 @@ The work happens in [issues](https://github.com/w3cping/tracking-issues/issues).
 
 [How to use the issue tracker](https://github.com/w3c/horizontal-issue-tracker/blob/master/docs/HOWTO.md)
 
-[Github reop for the tracker tool](https://github.com/w3c/horizontal-issue-tracker/issues)
+[Github repo for the tracker tool](https://github.com/w3c/horizontal-issue-tracker/issues)
