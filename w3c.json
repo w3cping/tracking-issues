@@ -1,7 +1,7 @@
 {
-  "group": 52497,
+  "group": "ig/privacy",
   "contacts": [
-    "samuelweiler"
+    "plehegar"
   ],
   "policy": "open",
   "repo-type": "tool"
